@@ -39,4 +39,4 @@ At this moment no future updates are being considered.
 
 ---
 
-**[Notion](https://www.notion.so/Text-To-Speech-GUI-e8f03601dea04ffd90a2901496c18358) | [Website](https://ali-ehtesham.carrd.co/)**
+**[Notion](https://ehtesham-ali.notion.site/Text-To-Speech-GUI-e8f03601dea04ffd90a2901496c18358) | [Website](https://ali-ehtesham.carrd.co/)**
